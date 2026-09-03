@@ -1,0 +1,1 @@
+export default function WhatsAppButton(){return <a className="whatsapp" href="https://wa.me/9779712078863?text=Hello%20Sprout%20Education%2C%20I%20would%20like%20a%20free%20consultation." target="_blank" rel="noreferrer" aria-label="Chat with Sprout Education on WhatsApp"><span>◔</span><b>Chat with us</b></a>}
